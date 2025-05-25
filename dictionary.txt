@@ -1,0 +1,23 @@
+Raesfeld, Raesfeld
+Flughafen, airport
+Berlin, Berlin
+Bratwurst, sausage
+Hauptstrasse, main street
+Brot, bread
+Klimaanlage, air conditioner
+Rammstein, Rammstein
+Porsche, Porsche
+BMW, BMW
+Biergarten, beer garden
+Ratskeller, rathskeller
+Dirndl, dress
+Lederhosen, shorts
+Schloss, castle
+wettbewerbsfahig, competitive
+Melhase, Melhase
+Gebaeck, pasteries
+Baeckerei, bakery
+Hund, dog
+Doener, kebab
+Apfelkuchen, apple pie
+Eltz, Eltz Castle
