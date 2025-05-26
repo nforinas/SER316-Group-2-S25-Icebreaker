@@ -6,7 +6,7 @@
 //Note when adding a line to story.txt, use a German word from dictionary.txt
 
 //Note that the assignment says team members should log the link to any pull 
-//requests they create in other teams' repos, in PullRequests.md in *their* 
+//requests they create in other teams' repos, in PullRequests.md in their 
 //repo.
 
 //This implies your team should have a copy of PullRequests.md in your 
