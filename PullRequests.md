@@ -24,6 +24,7 @@
 nforinas Initial commit                 dad6c7815b9426c5afb5d18ef6eaf99c8cca24ee
 nforinas Adding dictionary.txt          a070f85fdeab9d1b41d67fe7e6d9df31f1bd44ed
 nforinas Adding German story document.  bbf7da583aa9549438ec9ef60ab69485b9e1a6bb
+nforinas Adds a second line of text to story https://github.com/nforinas/SER316-Group-2-S25-Icebreaker/pull/1
 
 
 ===============================================================================
