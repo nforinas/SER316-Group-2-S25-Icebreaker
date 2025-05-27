@@ -21,10 +21,20 @@
 //Group 2 members can log their pull requests to other teams after this line.
 //Use the sha256 hash or other unique link for your pull request:
 
-nforinas Initial commit                 dad6c7815b9426c5afb5d18ef6eaf99c8cca24ee
-nforinas Adding dictionary.txt          a070f85fdeab9d1b41d67fe7e6d9df31f1bd44ed
-nforinas Adding German story document.  bbf7da583aa9549438ec9ef60ab69485b9e1a6bb
-nforinas Adds a second line of text to story https://github.com/nforinas/SER316-Group-2-S25-Icebreaker/pull/1
+nforinas Initial commit                         dad6c7815b9426c5afb5d18ef6eaf99c8cca24ee
+nforinas Adding dictionary.txt                  a070f85fdeab9d1b41d67fe7e6d9df31f1bd44ed
+nforinas Adding German story document.          bbf7da583aa9549438ec9ef60ab69485b9e1a6bb
+nforinas Adds a second line of text to story    1c31dba26c4b8acf1d40d08ce7f6f0a4f3d0a1d7
+alby-okiro add a sentence to story.txt          5998198e434d230c043b6e224177b3f4b46dca1d
+alby-okiro add second story#2                   fe393d607f7ecb97ac1a7e4efe4758f6fd07bf69
+oogega Add line by oogega                       df7baa6ca5a3303ac017b8f879feb62644cdb17f
+oogega Add a second sentence by oogega          f2b909019cba8eb3dc20357262a8e186f3455b8e
+lindycrain8 lcrain Adds additional story line   eb2bc30c046acdaf433647203d15beac10e1cedf
+lindycrain8 lcrain Adds second line to story    29ba95432144c14ab7910192c52fd3f5d6ea1daf
+aspalding6 first sentence Aaron                 2106ed2952f5e18d8ff1ab4cb37eef008976d9be
+aspalding6 Second german sentence               f22454d193ac56631959a61e5aacd95028ccde59
+
+
 
 
 ===============================================================================
