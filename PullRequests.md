@@ -21,6 +21,7 @@
 //Group 2 members can log their pull requests to other teams after this line.
 //Use the sha256 hash or other unique link for your pull request:
 
+//Group 2 commits on the Group 2 icebreaker repository
 nforinas Initial commit                         dad6c7815b9426c5afb5d18ef6eaf99c8cca24ee
 nforinas Adding dictionary.txt                  a070f85fdeab9d1b41d67fe7e6d9df31f1bd44ed
 nforinas Adding German story document.          bbf7da583aa9549438ec9ef60ab69485b9e1a6bb
@@ -34,6 +35,7 @@ lindycrain8 lcrain Adds second line to story    29ba95432144c14ab7910192c52fd3f5
 aspalding6 first sentence Aaron                 2106ed2952f5e18d8ff1ab4cb37eef008976d9be
 aspalding6 Second german sentence               f22454d193ac56631959a61e5aacd95028ccde59
 
+//Group 2 commits on other icebreaker repositories
 nforinas Add sentences.                         https://github.com/Just-In-N-Out/SER316Group4/pull/5
 
 
