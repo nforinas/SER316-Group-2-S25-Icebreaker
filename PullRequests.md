@@ -34,6 +34,8 @@ lindycrain8 lcrain Adds second line to story    29ba95432144c14ab7910192c52fd3f5
 aspalding6 first sentence Aaron                 2106ed2952f5e18d8ff1ab4cb37eef008976d9be
 aspalding6 Second german sentence               f22454d193ac56631959a61e5aacd95028ccde59
 
+nforinas Add sentences.                         https://github.com/Just-In-N-Out/SER316Group4/pull/5
+
 
 
 
