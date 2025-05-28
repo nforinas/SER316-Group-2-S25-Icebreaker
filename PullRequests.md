@@ -37,7 +37,7 @@ aspalding6 Second german sentence               f22454d193ac56631959a61e5aacd950
 
 //Group 2 commits on other icebreaker repositories
 nforinas Add sentences.                         https://github.com/Just-In-N-Out/SER316Group4/pull/5
-
+nforinas Added sentence.                        https://github.com/SamArndt/Group-8-SER316-Team-Assignment/pull/5
 
 
 
