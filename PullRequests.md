@@ -41,6 +41,7 @@ nforinas Added sentence.                        https://github.com/SamArndt/Grou
 lcrain   Add sentence to group 8's story		https://github.com/SamArndt/Group-8-SER316-Team-Assignment/pull/3
 alby-okiro Add a sentence to the story #6   https://github.com/Just-In-N-Out/SER316Group4/pull/6
 ajspald1 Added sentence                         https://github.com/jbrow164/SER316-Team1Summer25/pull/2
+oogega Added to group 3                      https://github.com/zmatar17/group3-teamexercise/pull/5
 
 
 
